@@ -6,6 +6,9 @@
 [![Language](https://img.shields.io/badge/Language-Batch-green.svg)](https://en.wikipedia.org/wiki/Batch_file)
 [![Compatibility](https://img.shields.io/badge/Inno%20Setup-All%20Versions-brightgreen.svg)](https://jrsoftware.org/isinfo.php)
 
+
+![explorer_kPhWDwM6Tv](https://github.com/user-attachments/assets/935a0db2-080a-4753-8922-799685bef549)
+
 ## 📝 项目介绍
 
 这是一个**终极兼容版**的Windows平台.NET应用程序自动化打包工具，专为解决Inno Setup各版本兼容性问题而重新设计。无论您使用的是最新的Inno Setup 6.4.3还是更早的版本，这个工具都能为您提供100%兼容的专业级安装包制作体验。
